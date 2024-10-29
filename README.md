@@ -1,5 +1,5 @@
 ## Hi I'm DongHun LEE 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hooni's%20Github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hooni's%20Github&fontSize=40" />
 
 ## 🛠️ My Skills 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=&fontSize=" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=" />
