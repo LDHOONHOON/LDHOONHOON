@@ -1,5 +1,5 @@
 ## Hi I'm DongHun LEE 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hooni's%20Github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hooni's%20Github&fontSize=40" />
 
 ## 🛠️ My Skills 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
