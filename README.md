@@ -14,7 +14,6 @@
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LDHOONHOON&layout=compact&theme=radical)
